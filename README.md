@@ -1,2 +1,2 @@
-monmouth
-========
+Monmouth Coffee Notes and Tracker
+=================================
